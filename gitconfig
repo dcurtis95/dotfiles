@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = danielcurtis95@gmail.com
+	name = daniel curtis
